@@ -37,7 +37,7 @@
 - 🎨 Tailwind CSS - Utility-first CSS framework for styling
 
 - 💻 JavaScript (ES6+)
-- 
+ 
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
 
